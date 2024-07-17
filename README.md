@@ -1,2 +1,2 @@
 # responsive-reminder
-Responsive reminder app build using HTML, CSS, Vue.js
+Mobile responsive reminder app build using HTML, CSS, Vue.js
